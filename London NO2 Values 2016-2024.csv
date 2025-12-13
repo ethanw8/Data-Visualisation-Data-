@@ -1,0 +1,280 @@
+,Year,Disease,AgeGroup,Incidence
+,2016,childhood asthma,0-5,72
+,2016,childhood asthma,06-17,52
+,2016,childhood asthma,18-64,0
+,2016,childhood asthma,65+,0
+,2016,childhood asthma,total,124
+,2016,adult asthma,0-5,0
+,2016,adult asthma,06-17,0
+,2016,adult asthma,18-64,111
+,2016,adult asthma,65+,19
+,2016,adult asthma,total,130
+,2016,dementia,0-5,0
+,2016,dementia,06-17,0
+,2016,dementia,18-64,0
+,2016,dementia,65+,153
+,2016,dementia,total,153
+,2016,diabetes,0-5,4
+,2016,diabetes,06-17,7
+,2016,diabetes,18-64,231
+,2016,diabetes,65+,107
+,2016,diabetes,total,349
+,2016,low birth weight,0-5,0
+,2016,low birth weight,06-17,1
+,2016,low birth weight,18-64,101
+,2016,low birth weight,65+,0
+,2016,low birth weight,total,102
+,2016,lung cancer,0-5,0
+,2016,lung cancer,06-17,0
+,2016,lung cancer,18-64,12
+,2016,lung cancer,65+,33
+,2016,lung cancer,total,45
+,2016,total,total,903
+,2017,childhood asthma,0-5,72
+,2017,childhood asthma,06-17,53
+,2017,childhood asthma,18-64,0
+,2017,childhood asthma,65+,0
+,2017,childhood asthma,total,125
+,2017,adult asthma,0-5,0
+,2017,adult asthma,06-17,0
+,2017,adult asthma,18-64,112
+,2017,adult asthma,65+,19
+,2017,adult asthma,total,131
+,2017,dementia,0-5,0
+,2017,dementia,06-17,0
+,2017,dementia,18-64,0
+,2017,dementia,65+,150
+,2017,dementia,total,150
+,2017,diabetes,0-5,4
+,2017,diabetes,06-17,7
+,2017,diabetes,18-64,236
+,2017,diabetes,65+,109
+,2017,diabetes,total,356
+,2017,low birth weight,0-5,0
+,2017,low birth weight,06-17,0
+,2017,low birth weight,18-64,97
+,2017,low birth weight,65+,0
+,2017,low birth weight,total,97
+,2017,lung cancer,0-5,0
+,2017,lung cancer,06-17,0
+,2017,lung cancer,18-64,12
+,2017,lung cancer,65+,34
+,2017,lung cancer,total,46
+,2017,total,total,905
+,2018,childhood asthma,0-5,69
+,2018,childhood asthma,06-17,54
+,2018,childhood asthma,18-64,0
+,2018,childhood asthma,65+,0
+,2018,childhood asthma,total,123
+,2018,adult asthma,0-5,0
+,2018,adult asthma,06-17,0
+,2018,adult asthma,18-64,112
+,2018,adult asthma,65+,19
+,2018,adult asthma,total,131
+,2018,dementia,0-5,0
+,2018,dementia,06-17,0
+,2018,dementia,18-64,0
+,2018,dementia,65+,149
+,2018,dementia,total,149
+,2018,diabetes,0-5,4
+,2018,diabetes,06-17,7
+,2018,diabetes,18-64,239
+,2018,diabetes,65+,110
+,2018,diabetes,total,360
+,2018,low birth weight,0-5,0
+,2018,low birth weight,06-17,0
+,2018,low birth weight,18-64,93
+,2018,low birth weight,65+,0
+,2018,low birth weight,total,93
+,2018,lung cancer,0-5,0
+,2018,lung cancer,06-17,0
+,2018,lung cancer,18-64,13
+,2018,lung cancer,65+,34
+,2018,lung cancer,total,47
+,2018,total,total,903
+,2019,childhood asthma,0-5,68
+,2019,childhood asthma,06-17,55
+,2019,childhood asthma,18-64,0
+,2019,childhood asthma,65+,0
+,2019,childhood asthma,total,123
+,2019,adult asthma,0-5,0
+,2019,adult asthma,06-17,0
+,2019,adult asthma,18-64,112
+,2019,adult asthma,65+,19
+,2019,adult asthma,total,131
+,2019,dementia,0-5,0
+,2019,dementia,06-17,0
+,2019,dementia,18-64,0
+,2019,dementia,65+,149
+,2019,dementia,total,149
+,2019,diabetes,0-5,4
+,2019,diabetes,06-17,7
+,2019,diabetes,18-64,244
+,2019,diabetes,65+,112
+,2019,diabetes,total,367
+,2019,low birth weight,0-5,0
+,2019,low birth weight,06-17,1
+,2019,low birth weight,18-64,90
+,2019,low birth weight,65+,0
+,2019,low birth weight,total,91
+,2019,lung cancer,0-5,0
+,2019,lung cancer,06-17,0
+,2019,lung cancer,18-64,14
+,2019,lung cancer,65+,34
+,2019,lung cancer,total,48
+,2019,total,total,909
+,2020,childhood asthma,0-5,65
+,2020,childhood asthma,06-17,56
+,2020,childhood asthma,18-64,0
+,2020,childhood asthma,65+,0
+,2020,childhood asthma,total,121
+,2020,adult asthma,0-5,0
+,2020,adult asthma,06-17,0
+,2020,adult asthma,18-64,112
+,2020,adult asthma,65+,20
+,2020,adult asthma,total,132
+,2020,dementia,0-5,0
+,2020,dementia,06-17,0
+,2020,dementia,18-64,0
+,2020,dementia,65+,150
+,2020,dementia,total,150
+,2020,diabetes,0-5,4
+,2020,diabetes,06-17,7
+,2020,diabetes,18-64,250
+,2020,diabetes,65+,114
+,2020,diabetes,total,375
+,2020,low birth weight,0-5,0
+,2020,low birth weight,06-17,1
+,2020,low birth weight,18-64,86
+,2020,low birth weight,65+,0
+,2020,low birth weight,total,87
+,2020,lung cancer,0-5,0
+,2020,lung cancer,06-17,0
+,2020,lung cancer,18-64,14
+,2020,lung cancer,65+,34
+,2020,lung cancer,total,48
+,2020,total,total,913
+,2021,childhood asthma,0-5,63
+,2021,childhood asthma,06-17,56
+,2021,childhood asthma,18-64,0
+,2021,childhood asthma,65+,0
+,2021,childhood asthma,total,119
+,2021,adult asthma,0-5,0
+,2021,adult asthma,06-17,0
+,2021,adult asthma,18-64,113
+,2021,adult asthma,65+,21
+,2021,adult asthma,total,134
+,2021,dementia,0-5,0
+,2021,dementia,06-17,0
+,2021,dementia,18-64,0
+,2021,dementia,65+,152
+,2021,dementia,total,152
+,2021,diabetes,0-5,4
+,2021,diabetes,06-17,7
+,2021,diabetes,18-64,253
+,2021,diabetes,65+,118
+,2021,diabetes,total,382
+,2021,low birth weight,0-5,0
+,2021,low birth weight,06-17,1
+,2021,low birth weight,18-64,80
+,2021,low birth weight,65+,0
+,2021,low birth weight,total,81
+,2021,lung cancer,0-5,0
+,2021,lung cancer,06-17,0
+,2021,lung cancer,18-64,15
+,2021,lung cancer,65+,35
+,2021,lung cancer,total,50
+,2021,total,total,918
+,2022,childhood asthma,0-5,59
+,2022,childhood asthma,06-17,56
+,2022,childhood asthma,18-64,0
+,2022,childhood asthma,65+,0
+,2022,childhood asthma,total,115
+,2022,adult asthma,0-5,0
+,2022,adult asthma,06-17,0
+,2022,adult asthma,18-64,113
+,2022,adult asthma,65+,21
+,2022,adult asthma,total,134
+,2022,dementia,0-5,0
+,2022,dementia,06-17,0
+,2022,dementia,18-64,0
+,2022,dementia,65+,156
+,2022,dementia,total,156
+,2022,diabetes,0-5,3
+,2022,diabetes,06-17,7
+,2022,diabetes,18-64,258
+,2022,diabetes,65+,122
+,2022,diabetes,total,390
+,2022,low birth weight,0-5,0
+,2022,low birth weight,06-17,1
+,2022,low birth weight,18-64,76
+,2022,low birth weight,65+,0
+,2022,low birth weight,total,77
+,2022,lung cancer,0-5,0
+,2022,lung cancer,06-17,0
+,2022,lung cancer,18-64,15
+,2022,lung cancer,65+,36
+,2022,lung cancer,total,51
+,2022,total,total,923
+,2023,childhood asthma,0-5,57
+,2023,childhood asthma,06-17,55
+,2023,childhood asthma,18-64,0
+,2023,childhood asthma,65+,0
+,2023,childhood asthma,total,112
+,2023,adult asthma,0-5,0
+,2023,adult asthma,06-17,0
+,2023,adult asthma,18-64,113
+,2023,adult asthma,65+,22
+,2023,adult asthma,total,135
+,2023,dementia,0-5,0
+,2023,dementia,06-17,0
+,2023,dementia,18-64,0
+,2023,dementia,65+,159
+,2023,dementia,total,159
+,2023,diabetes,0-5,3
+,2023,diabetes,06-17,7
+,2023,diabetes,18-64,264
+,2023,diabetes,65+,125
+,2023,diabetes,total,399
+,2023,low birth weight,0-5,0
+,2023,low birth weight,06-17,1
+,2023,low birth weight,18-64,73
+,2023,low birth weight,65+,0
+,2023,low birth weight,total,74
+,2023,lung cancer,0-5,0
+,2023,lung cancer,06-17,0
+,2023,lung cancer,18-64,16
+,2023,lung cancer,65+,37
+,2023,lung cancer,total,53
+,2023,total,total,932
+,2024,childhood asthma,0-5,55
+,2024,childhood asthma,06-17,56
+,2024,childhood asthma,18-64,0
+,2024,childhood asthma,65+,0
+,2024,childhood asthma,total,111
+,2024,adult asthma,0-5,0
+,2024,adult asthma,06-17,0
+,2024,adult asthma,18-64,112
+,2024,adult asthma,65+,23
+,2024,adult asthma,total,135
+,2024,dementia,0-5,0
+,2024,dementia,06-17,0
+,2024,dementia,18-64,0
+,2024,dementia,65+,162
+,2024,dementia,total,162
+,2024,diabetes,0-5,3
+,2024,diabetes,06-17,7
+,2024,diabetes,18-64,267
+,2024,diabetes,65+,129
+,2024,diabetes,total,406
+,2024,low birth weight,0-5,0
+,2024,low birth weight,06-17,1
+,2024,low birth weight,18-64,71
+,2024,low birth weight,65+,0
+,2024,low birth weight,total,72
+,2024,lung cancer,0-5,0
+,2024,lung cancer,06-17,0
+,2024,lung cancer,18-64,16
+,2024,lung cancer,65+,38
+,2024,lung cancer,total,54
+,2024,total,total,940

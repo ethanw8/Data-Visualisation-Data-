@@ -1,0 +1,325 @@
+,Year,Disease,AgeGroup,Incidence
+,2016,childhood asthma,0-5,58
+,2016,childhood asthma,06-17,76
+,2016,childhood asthma,18-64,0
+,2016,childhood asthma,65+,0
+,2016,childhood asthma,total,134
+,2016,chronic obstructive pulmonary disease,0-5,0
+,2016,chronic obstructive pulmonary disease,06-17,0
+,2016,chronic obstructive pulmonary disease,18-64,47
+,2016,chronic obstructive pulmonary disease,65+,23
+,2016,chronic obstructive pulmonary disease,total,70
+,2016,diabetes,0-5,4
+,2016,diabetes,06-17,7
+,2016,diabetes,18-64,231
+,2016,diabetes,65+,108
+,2016,diabetes,total,350
+,2016,low birth weight,0-5,0
+,2016,low birth weight,06-17,1
+,2016,low birth weight,18-64,102
+,2016,low birth weight,65+,0
+,2016,low birth weight,total,103
+,2016,coronary heart disease,0-5,0
+,2016,coronary heart disease,06-17,0
+,2016,coronary heart disease,18-64,37
+,2016,coronary heart disease,65+,66
+,2016,coronary heart disease,total,103
+,2016,lung cancer,0-5,0
+,2016,lung cancer,06-17,0
+,2016,lung cancer,18-64,12
+,2016,lung cancer,65+,33
+,2016,lung cancer,total,45
+,2016,stroke,0-5,0
+,2016,stroke,06-17,1
+,2016,stroke,18-64,22
+,2016,stroke,65+,58
+,2016,stroke,total,81
+,2016,total,total,886
+,2017,childhood asthma,0-5,58
+,2017,childhood asthma,06-17,78
+,2017,childhood asthma,18-64,0
+,2017,childhood asthma,65+,0
+,2017,childhood asthma,total,136
+,2017,chronic obstructive pulmonary disease,0-5,0
+,2017,chronic obstructive pulmonary disease,06-17,0
+,2017,chronic obstructive pulmonary disease,18-64,49
+,2017,chronic obstructive pulmonary disease,65+,23
+,2017,chronic obstructive pulmonary disease,total,72
+,2017,diabetes,0-5,4
+,2017,diabetes,06-17,7
+,2017,diabetes,18-64,235
+,2017,diabetes,65+,109
+,2017,diabetes,total,355
+,2017,low birth weight,0-5,0
+,2017,low birth weight,06-17,1
+,2017,low birth weight,18-64,98
+,2017,low birth weight,65+,0
+,2017,low birth weight,total,99
+,2017,coronary heart disease,0-5,0
+,2017,coronary heart disease,06-17,0
+,2017,coronary heart disease,18-64,38
+,2017,coronary heart disease,65+,64
+,2017,coronary heart disease,total,102
+,2017,lung cancer,0-5,0
+,2017,lung cancer,06-17,0
+,2017,lung cancer,18-64,12
+,2017,lung cancer,65+,34
+,2017,lung cancer,total,46
+,2017,stroke,0-5,0
+,2017,stroke,06-17,1
+,2017,stroke,18-64,23
+,2017,stroke,65+,58
+,2017,stroke,total,82
+,2017,total,total,892
+,2018,childhood asthma,0-5,56
+,2018,childhood asthma,06-17,79
+,2018,childhood asthma,18-64,0
+,2018,childhood asthma,65+,0
+,2018,childhood asthma,total,135
+,2018,chronic obstructive pulmonary disease,0-5,0
+,2018,chronic obstructive pulmonary disease,06-17,0
+,2018,chronic obstructive pulmonary disease,18-64,50
+,2018,chronic obstructive pulmonary disease,65+,23
+,2018,chronic obstructive pulmonary disease,total,73
+,2018,diabetes,0-5,4
+,2018,diabetes,06-17,7
+,2018,diabetes,18-64,241
+,2018,diabetes,65+,111
+,2018,diabetes,total,363
+,2018,low birth weight,0-5,0
+,2018,low birth weight,06-17,1
+,2018,low birth weight,18-64,94
+,2018,low birth weight,65+,0
+,2018,low birth weight,total,95
+,2018,coronary heart disease,0-5,0
+,2018,coronary heart disease,06-17,0
+,2018,coronary heart disease,18-64,39
+,2018,coronary heart disease,65+,65
+,2018,coronary heart disease,total,104
+,2018,lung cancer,0-5,0
+,2018,lung cancer,06-17,0
+,2018,lung cancer,18-64,13
+,2018,lung cancer,65+,34
+,2018,lung cancer,total,47
+,2018,stroke,0-5,0
+,2018,stroke,06-17,1
+,2018,stroke,18-64,24
+,2018,stroke,65+,58
+,2018,stroke,total,83
+,2018,total,total,900
+,2019,childhood asthma,0-5,54
+,2019,childhood asthma,06-17,81
+,2019,childhood asthma,18-64,0
+,2019,childhood asthma,65+,0
+,2019,childhood asthma,total,135
+,2019,chronic obstructive pulmonary disease,0-5,0
+,2019,chronic obstructive pulmonary disease,06-17,0
+,2019,chronic obstructive pulmonary disease,18-64,52
+,2019,chronic obstructive pulmonary disease,65+,24
+,2019,chronic obstructive pulmonary disease,total,76
+,2019,diabetes,0-5,4
+,2019,diabetes,06-17,7
+,2019,diabetes,18-64,244
+,2019,diabetes,65+,113
+,2019,diabetes,total,368
+,2019,low birth weight,0-5,0
+,2019,low birth weight,06-17,1
+,2019,low birth weight,18-64,91
+,2019,low birth weight,65+,0
+,2019,low birth weight,total,92
+,2019,coronary heart disease,0-5,0
+,2019,coronary heart disease,06-17,0
+,2019,coronary heart disease,18-64,40
+,2019,coronary heart disease,65+,65
+,2019,coronary heart disease,total,105
+,2019,lung cancer,0-5,0
+,2019,lung cancer,06-17,0
+,2019,lung cancer,18-64,14
+,2019,lung cancer,65+,35
+,2019,lung cancer,total,49
+,2019,stroke,0-5,0
+,2019,stroke,06-17,1
+,2019,stroke,18-64,24
+,2019,stroke,65+,59
+,2019,stroke,total,84
+,2019,total,total,909
+,2020,childhood asthma,0-5,52
+,2020,childhood asthma,06-17,81
+,2020,childhood asthma,18-64,0
+,2020,childhood asthma,65+,0
+,2020,childhood asthma,total,133
+,2020,chronic obstructive pulmonary disease,0-5,0
+,2020,chronic obstructive pulmonary disease,06-17,0
+,2020,chronic obstructive pulmonary disease,18-64,53
+,2020,chronic obstructive pulmonary disease,65+,24
+,2020,chronic obstructive pulmonary disease,total,77
+,2020,diabetes,0-5,4
+,2020,diabetes,06-17,7
+,2020,diabetes,18-64,249
+,2020,diabetes,65+,115
+,2020,diabetes,total,375
+,2020,low birth weight,0-5,0
+,2020,low birth weight,06-17,1
+,2020,low birth weight,18-64,87
+,2020,low birth weight,65+,0
+,2020,low birth weight,total,88
+,2020,coronary heart disease,0-5,0
+,2020,coronary heart disease,06-17,0
+,2020,coronary heart disease,18-64,41
+,2020,coronary heart disease,65+,66
+,2020,coronary heart disease,total,107
+,2020,lung cancer,0-5,0
+,2020,lung cancer,06-17,0
+,2020,lung cancer,18-64,14
+,2020,lung cancer,65+,35
+,2020,lung cancer,total,49
+,2020,stroke,0-5,0
+,2020,stroke,06-17,1
+,2020,stroke,18-64,25
+,2020,stroke,65+,60
+,2020,stroke,total,86
+,2020,total,total,915
+,2021,childhood asthma,0-5,51
+,2021,childhood asthma,06-17,81
+,2021,childhood asthma,18-64,0
+,2021,childhood asthma,65+,0
+,2021,childhood asthma,total,132
+,2021,chronic obstructive pulmonary disease,0-5,0
+,2021,chronic obstructive pulmonary disease,06-17,0
+,2021,chronic obstructive pulmonary disease,18-64,55
+,2021,chronic obstructive pulmonary disease,65+,25
+,2021,chronic obstructive pulmonary disease,total,80
+,2021,diabetes,0-5,3
+,2021,diabetes,06-17,7
+,2021,diabetes,18-64,252
+,2021,diabetes,65+,120
+,2021,diabetes,total,382
+,2021,low birth weight,0-5,0
+,2021,low birth weight,06-17,1
+,2021,low birth weight,18-64,82
+,2021,low birth weight,65+,0
+,2021,low birth weight,total,83
+,2021,coronary heart disease,0-5,0
+,2021,coronary heart disease,06-17,0
+,2021,coronary heart disease,18-64,42
+,2021,coronary heart disease,65+,68
+,2021,coronary heart disease,total,110
+,2021,lung cancer,0-5,0
+,2021,lung cancer,06-17,0
+,2021,lung cancer,18-64,14
+,2021,lung cancer,65+,35
+,2021,lung cancer,total,49
+,2021,stroke,0-5,0
+,2021,stroke,06-17,1
+,2021,stroke,18-64,26
+,2021,stroke,65+,62
+,2021,stroke,total,89
+,2021,total,total,925
+,2022,childhood asthma,0-5,48
+,2022,childhood asthma,06-17,82
+,2022,childhood asthma,18-64,0
+,2022,childhood asthma,65+,0
+,2022,childhood asthma,total,130
+,2022,chronic obstructive pulmonary disease,0-5,0
+,2022,chronic obstructive pulmonary disease,06-17,0
+,2022,chronic obstructive pulmonary disease,18-64,56
+,2022,chronic obstructive pulmonary disease,65+,26
+,2022,chronic obstructive pulmonary disease,total,82
+,2022,diabetes,0-5,3
+,2022,diabetes,06-17,7
+,2022,diabetes,18-64,257
+,2022,diabetes,65+,122
+,2022,diabetes,total,389
+,2022,low birth weight,0-5,0
+,2022,low birth weight,06-17,1
+,2022,low birth weight,18-64,77
+,2022,low birth weight,65+,0
+,2022,low birth weight,total,78
+,2022,coronary heart disease,0-5,0
+,2022,coronary heart disease,06-17,0
+,2022,coronary heart disease,18-64,42
+,2022,coronary heart disease,65+,69
+,2022,coronary heart disease,total,111
+,2022,lung cancer,0-5,0
+,2022,lung cancer,06-17,0
+,2022,lung cancer,18-64,15
+,2022,lung cancer,65+,37
+,2022,lung cancer,total,52
+,2022,stroke,0-5,0
+,2022,stroke,06-17,1
+,2022,stroke,18-64,26
+,2022,stroke,65+,64
+,2022,stroke,total,91
+,2022,total,total,933
+,2023,childhood asthma,0-5,46
+,2023,childhood asthma,06-17,82
+,2023,childhood asthma,18-64,0
+,2023,childhood asthma,65+,0
+,2023,childhood asthma,total,128
+,2023,chronic obstructive pulmonary disease,0-5,0
+,2023,chronic obstructive pulmonary disease,06-17,0
+,2023,chronic obstructive pulmonary disease,18-64,57
+,2023,chronic obstructive pulmonary disease,65+,27
+,2023,chronic obstructive pulmonary disease,total,84
+,2023,diabetes,0-5,3
+,2023,diabetes,06-17,7
+,2023,diabetes,18-64,261
+,2023,diabetes,65+,126
+,2023,diabetes,total,397
+,2023,low birth weight,0-5,0
+,2023,low birth weight,06-17,1
+,2023,low birth weight,18-64,74
+,2023,low birth weight,65+,0
+,2023,low birth weight,total,75
+,2023,coronary heart disease,0-5,0
+,2023,coronary heart disease,06-17,0
+,2023,coronary heart disease,18-64,43
+,2023,coronary heart disease,65+,71
+,2023,coronary heart disease,total,114
+,2023,lung cancer,0-5,0
+,2023,lung cancer,06-17,0
+,2023,lung cancer,18-64,16
+,2023,lung cancer,65+,38
+,2023,lung cancer,total,54
+,2023,stroke,0-5,0
+,2023,stroke,06-17,1
+,2023,stroke,18-64,27
+,2023,stroke,65+,66
+,2023,stroke,total,94
+,2023,total,total,946
+,2024,childhood asthma,0-5,44
+,2024,childhood asthma,06-17,81
+,2024,childhood asthma,18-64,0
+,2024,childhood asthma,65+,0
+,2024,childhood asthma,total,125
+,2024,chronic obstructive pulmonary disease,0-5,0
+,2024,chronic obstructive pulmonary disease,06-17,0
+,2024,chronic obstructive pulmonary disease,18-64,59
+,2024,chronic obstructive pulmonary disease,65+,28
+,2024,chronic obstructive pulmonary disease,total,87
+,2024,diabetes,0-5,3
+,2024,diabetes,06-17,7
+,2024,diabetes,18-64,267
+,2024,diabetes,65+,131
+,2024,diabetes,total,408
+,2024,low birth weight,0-5,0
+,2024,low birth weight,06-17,0
+,2024,low birth weight,18-64,72
+,2024,low birth weight,65+,0
+,2024,low birth weight,total,72
+,2024,coronary heart disease,0-5,0
+,2024,coronary heart disease,06-17,0
+,2024,coronary heart disease,18-64,44
+,2024,coronary heart disease,65+,73
+,2024,coronary heart disease,total,117
+,2024,lung cancer,0-5,0
+,2024,lung cancer,06-17,0
+,2024,lung cancer,18-64,16
+,2024,lung cancer,65+,39
+,2024,lung cancer,total,55
+,2024,stroke,0-5,0
+,2024,stroke,06-17,1
+,2024,stroke,18-64,28
+,2024,stroke,65+,68
+,2024,stroke,total,97
+,2024,total,total,961
